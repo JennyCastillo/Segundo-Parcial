@@ -1,0 +1,45 @@
+﻿  Estudiante.cpp
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 3  POO y Mysql\SegundoParcial\SegundoParcial\Estudiante.h(24,34): error C2535: 'void Estudiante::setDireccion(std::string)': función miembro ya definida o declarada
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 3  POO y Mysql\SegundoParcial\SegundoParcial\Estudiante.h(23): message : vea la declaración de 'Estudiante::setDireccion'
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 3  POO y Mysql\SegundoParcial\SegundoParcial\Estudiante.h(25,28): error C2535: 'void Estudiante::setNit(std::string)': función miembro ya definida o declarada
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 3  POO y Mysql\SegundoParcial\SegundoParcial\Estudiante.h(21): message : vea la declaración de 'Estudiante::setNit'
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 3  POO y Mysql\SegundoParcial\SegundoParcial\Estudiante.h(26,31): error C2535: 'void Estudiante::setNombres(std::string)': función miembro ya definida o declarada
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 3  POO y Mysql\SegundoParcial\SegundoParcial\Estudiante.h(22): message : vea la declaración de 'Estudiante::setNombres'
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 3  POO y Mysql\SegundoParcial\SegundoParcial\Estudiante.h(27,29): error C2535: 'void Estudiante::setNit(std::string)': función miembro ya definida o declarada
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 3  POO y Mysql\SegundoParcial\SegundoParcial\Estudiante.h(21): message : vea la declaración de 'Estudiante::setNit'
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 3  POO y Mysql\SegundoParcial\SegundoParcial\Estudiante.h(33,26): error C2535: 'std::string Estudiante::getDireccion(void)': función miembro ya definida o declarada
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 3  POO y Mysql\SegundoParcial\SegundoParcial\Estudiante.h(32): message : vea la declaración de 'Estudiante::getDireccion'
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 3  POO y Mysql\SegundoParcial\SegundoParcial\Estudiante.h(34,20): error C2535: 'std::string Estudiante::getNit(void)': función miembro ya definida o declarada
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 3  POO y Mysql\SegundoParcial\SegundoParcial\Estudiante.h(30): message : vea la declaración de 'Estudiante::getNit'
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 3  POO y Mysql\SegundoParcial\SegundoParcial\Estudiante.h(35,24): error C2535: 'std::string Estudiante::getNombres(void)': función miembro ya definida o declarada
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 3  POO y Mysql\SegundoParcial\SegundoParcial\Estudiante.h(31): message : vea la declaración de 'Estudiante::getNombres'
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 3  POO y Mysql\SegundoParcial\SegundoParcial\Estudiante.h(36,20): error C2535: 'std::string Estudiante::getNit(void)': función miembro ya definida o declarada
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 3  POO y Mysql\SegundoParcial\SegundoParcial\Estudiante.h(30): message : vea la declaración de 'Estudiante::getNit'
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 3  POO y Mysql\SegundoParcial\SegundoParcial\Estudiante.h(47,169): error C2065: 'epellido': identificador no declarado
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 3  POO y Mysql\SegundoParcial\SegundoParcial\Estudiante.h(99,27): error C2065: 'id_Proveedor': identificador no declarado
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 3  POO y Mysql\SegundoParcial\SegundoParcial\Estudiante.h(128,27): error C2065: 'id_estudiante': identificador no declarado
+  SegundoParcial.cpp
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 3  POO y Mysql\SegundoParcial\SegundoParcial\Estudiante.h(24,34): error C2535: 'void Estudiante::setDireccion(std::string)': función miembro ya definida o declarada
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 3  POO y Mysql\SegundoParcial\SegundoParcial\Estudiante.h(23): message : vea la declaración de 'Estudiante::setDireccion'
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 3  POO y Mysql\SegundoParcial\SegundoParcial\Estudiante.h(25,28): error C2535: 'void Estudiante::setNit(std::string)': función miembro ya definida o declarada
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 3  POO y Mysql\SegundoParcial\SegundoParcial\Estudiante.h(21): message : vea la declaración de 'Estudiante::setNit'
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 3  POO y Mysql\SegundoParcial\SegundoParcial\Estudiante.h(26,31): error C2535: 'void Estudiante::setNombres(std::string)': función miembro ya definida o declarada
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 3  POO y Mysql\SegundoParcial\SegundoParcial\Estudiante.h(22): message : vea la declaración de 'Estudiante::setNombres'
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 3  POO y Mysql\SegundoParcial\SegundoParcial\Estudiante.h(27,29): error C2535: 'void Estudiante::setNit(std::string)': función miembro ya definida o declarada
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 3  POO y Mysql\SegundoParcial\SegundoParcial\Estudiante.h(21): message : vea la declaración de 'Estudiante::setNit'
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 3  POO y Mysql\SegundoParcial\SegundoParcial\Estudiante.h(33,26): error C2535: 'std::string Estudiante::getDireccion(void)': función miembro ya definida o declarada
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 3  POO y Mysql\SegundoParcial\SegundoParcial\Estudiante.h(32): message : vea la declaración de 'Estudiante::getDireccion'
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 3  POO y Mysql\SegundoParcial\SegundoParcial\Estudiante.h(34,20): error C2535: 'std::string Estudiante::getNit(void)': función miembro ya definida o declarada
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 3  POO y Mysql\SegundoParcial\SegundoParcial\Estudiante.h(30): message : vea la declaración de 'Estudiante::getNit'
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 3  POO y Mysql\SegundoParcial\SegundoParcial\Estudiante.h(35,24): error C2535: 'std::string Estudiante::getNombres(void)': función miembro ya definida o declarada
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 3  POO y Mysql\SegundoParcial\SegundoParcial\Estudiante.h(31): message : vea la declaración de 'Estudiante::getNombres'
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 3  POO y Mysql\SegundoParcial\SegundoParcial\Estudiante.h(36,20): error C2535: 'std::string Estudiante::getNit(void)': función miembro ya definida o declarada
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 3  POO y Mysql\SegundoParcial\SegundoParcial\Estudiante.h(30): message : vea la declaración de 'Estudiante::getNit'
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 3  POO y Mysql\SegundoParcial\SegundoParcial\Estudiante.h(47,169): error C2065: 'epellido': identificador no declarado
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 3  POO y Mysql\SegundoParcial\SegundoParcial\Estudiante.h(99,27): error C2065: 'id_Proveedor': identificador no declarado
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 3  POO y Mysql\SegundoParcial\SegundoParcial\Estudiante.h(128,27): error C2065: 'id_estudiante': identificador no declarado
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 3  POO y Mysql\SegundoParcial\SegundoParcial\SegundoParcial.cpp(16,15): error C2065: 'epe': identificador no declarado
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 3  POO y Mysql\SegundoParcial\SegundoParcial\SegundoParcial.cpp(20,15): error C2065: 'gen': identificador no declarado
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 3  POO y Mysql\SegundoParcial\SegundoParcial\SegundoParcial.cpp(26,9): error C2065: 'telefono': identificador no declarado
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 3  POO y Mysql\SegundoParcial\SegundoParcial\SegundoParcial.cpp(29,69): error C2065: 'telefono': identificador no declarado
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 3  POO y Mysql\SegundoParcial\SegundoParcial\SegundoParcial.cpp(29,17): error C3861: 'Estudiantes': no se encontró el identificador
